@@ -1,0 +1,7 @@
+packages:
+  - .
+allowBuilds:
+  bcrypt: true
+  esbuild: true
+  sharp: set this to true or false
+minimumReleaseAge: 2880
